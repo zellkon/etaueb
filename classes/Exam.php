@@ -103,7 +103,7 @@ class Exam
 	{
 		
 		
-		$query = "SELECT * FROM tbl_que order by rand() limit 1";
+		$query = "SELECT * FROM tbl_que WHERE quesNo = '$qnum'";
 		
 		$getData = $this->db->select($query);
 		$result = $getData->fetch_assoc();
