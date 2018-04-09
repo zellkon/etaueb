@@ -71,13 +71,13 @@ window.addEventListener('popstate', function () {
         	<div class="container">
             	<div class="row">
                 	<div class="col-xs-6">
-						<a href="#"><img src="img/logo1.png" width="80" alt=""/></a>
-                    				<a href="#"><img src="img/logo2.png" width="80" alt=""/></a>
-						<a href="#"><img src="img/logo3.png" width="80" alt=""/></a>
-						<a href="#"><img src="img/logo4.png" width="80" alt=""/></a>
-						<a href="#"><img src="img/logo5.png" width="80" alt=""/></a>
-						<a href="#"><img src="img/logo6.png" width="80" alt=""/></a>
-						<a href="#"><img src="img/logo7.jpg" width="80" alt=""/></a>
+						<a href="#"><img src="img/logo1.png" width="70" alt=""/></a>
+                    				<a href="#"><img src="img/logo2.png" width="70" alt=""/></a>
+						<a href="#"><img src="img/logo3.png" width="70" alt=""/></a>
+						<a href="#"><img src="img/logo4.png" width="70" alt=""/></a>
+						<a href="#"><img src="img/logo5.png" width="70" alt=""/></a>
+						<a href="#"><img src="img/logo6.png" width="70" alt=""/></a>
+						<a href="#"><img src="img/logo7.jpg" width="70" alt=""/></a>
                     </div><!--/.col-xs-6-->
                     
                     <div class="col-xs-6 text-right">
