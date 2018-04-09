@@ -95,7 +95,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
             <form method="post" id="questionForm" action="">
             <div class="wiztab-inner">
             	
-                <h4 class="question-body"><?php echo $question[$question['quesNo']]; ?></h4>
+                <h4 class="question-body"><?php echo $question['que']; ?></h4>
                 
                 <!--<div class="alert alert-danger">
                   <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
@@ -106,7 +106,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
                   
                   <div class="row">
                   	<?php 
-					  $answer = $exm->getAnswer($number);
+					  $answer = $exm->getAnswer($question['quesNo');
 					  if($answer)
 					  {
 						  while($result = $answer->fetch_assoc()){
