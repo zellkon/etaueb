@@ -52,7 +52,7 @@ $total = $exm->getTotalRows();
 						<tr>
 						  <td><strong>Tỉ lệ phần trăm đúng:</strong></td>
 						  <td><strong><?php 
-							  $per = $showScore['score'] / $total * 100;
+							  $per = $showScore['score'] / 20 * 100;
 							  echo $per;?>%</strong></td>
 						</tr>
 						<tr>
