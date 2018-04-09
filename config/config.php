@@ -1,6 +1,6 @@
 <?php
-define('DB_HOST', "localhost");
-define('DB_USER', "id5224045_ndteam");
-define('DB_PASS', "123456");
-define('DB_NAME', "id5224045_ndteam");
+define('DB_HOST', "sql12.freemysqlhosting.net");
+define('DB_USER', "sql12229514");
+define('DB_PASS', "naXJTHKduG");
+define('DB_NAME', "sql12229514");
 ?>
