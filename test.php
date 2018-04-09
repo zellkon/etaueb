@@ -48,7 +48,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
 								
 								
 								
-								?> / <?php echo 30; ?></span></h4>
+								?> / <?php echo 20; ?></span></h4>
                             </div><!--/.col-xs-6-->
                             
                             <div class="col-sm-6 txt-sm-right">

@@ -1,6 +1,6 @@
 <?php
 define('DB_HOST', "localhost");
-define('DB_USER', "aiit1com_exam");
-define('DB_PASS', "9OF#uJMi!b,,");
-define('DB_NAME', "aiit1com_exam");
+define('DB_USER', "id5224045_ndteam");
+define('DB_PASS', "123456");
+define('DB_NAME', "id5224045_ndteam");
 ?>

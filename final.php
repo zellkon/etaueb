@@ -42,7 +42,7 @@ $total = $exm->getTotalRows();
 					  </tr>
 						<tr>
 						  <td><strong>Tổng câu hỏi:</strong></td>
-						  <td><strong><?php echo $total;?></strong></td>
+						  <td><strong><?php echo 20;?></strong></td>
 						</tr>
 						<tr>
 						  <td><strong>Đúng:</strong></td>
@@ -86,7 +86,7 @@ $total = $exm->getTotalRows();
 					<a href="exam.php" class="btn btn-orange">Start Again</a>
                    -->
 				   
-                    <a href="viewans.php" class="btn btn-orange">Xem đáp án</a>
+                    
 
 
                 </div><!--/.content-inner-->

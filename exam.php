@@ -35,10 +35,10 @@ $userid = Session::get("userId");
                     <?php  $attemptCheck = $exm->showFinalScore($userid); 
 					if($attemptCheck['attempt'] >= 3)
 					{?>
-						<button style="margin-left: 28px;" onClick="message();"; class="btn btn-orange">BẮT ĐẦU THI</button>
+						<button style="margin-left: 28px;" onClick="message();"; class="btn btn-orange">XEM THỂ LỆ THI</button>
 						<?php
 					}else{
-						echo '<a href="starttest.php" style="margin-left: 28px;" class="btn btn-orange">BẮT ĐẦU THI</a>';
+						echo '<a href="starttest.php" style="margin-left: 28px;" class="btn btn-orange">XEM THỂ LỆ THI</a>';
 					}
 					?>
 					

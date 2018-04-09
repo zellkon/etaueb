@@ -50,7 +50,7 @@ class Process
 		//$query = "SELECT * FROM tbl_que";
 		//$getResult = $this->db->select($query);
 		//$total = $getResult->num_rows;
-		$total=30;
+		$total=20;
 		return $total;
 	}
 	

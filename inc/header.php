@@ -75,8 +75,8 @@ window.addEventListener('popstate', function () {
                     	<a href="#"><img src="img/logo2.png" width="80" alt=""/></a>
 						<a href="#"><img src="img/logo3.png" width="80" alt=""/></a>
 						<a href="#"><img src="img/logo4.png" width="80" alt=""/></a>
-						<a href="#"><img src="img/logo5.png" width="80" alt=""/></a>
-						<a href="#"><img src="img/logo6.png" width="80" alt=""/></a>
+						<a href="#"><img src="img/logo5.png" width="110" alt=""/></a>
+						<a href="#"><img src="img/logo6.png" width="100" alt=""/></a>
                     </div><!--/.col-xs-6-->
                     
                     <div class="col-xs-6 text-right">
