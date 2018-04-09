@@ -106,7 +106,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST')
                   
                   <div class="row">
                   	<?php 
-					  $answer = $exm->getAnswer($question['quesNo');
+					  $answer = $exm->getAnswer($number);
 					  if($answer)
 					  {
 						  while($result = $answer->fetch_assoc()){
